@@ -19,7 +19,7 @@ body {
   place-items: center;
   padding: 1.5rem;
   font-family: Arial, sans-serif;
-  background-color: var(--bg);
+  background-color: #6B84B2;
   color: var(--text-primary);
 }
 
